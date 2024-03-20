@@ -5,11 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Happy 6rd Month Anniversary MUTU</title>
     ### Feature vertex-543
+    sum = 10+10;
+    mul = 10 * 10
+    add = sum + mul;
      margin: 0;
             padding: 0;
             font-family: Arial, sans-serif;
-
-            
     <style>
         body {
             margin: 0;
@@ -36,7 +37,7 @@
             border-bottom: 2px solid #e64a85;
             animation: pulse 2s ease-in-out infinite;
         }
-
+delete name: saroj101
         @keyframes pulse {
             0% {
                 transform: scale(1);
