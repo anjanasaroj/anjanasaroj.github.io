@@ -7,6 +7,7 @@
     ### Feature vertex-543
     private static final string
     rest_url= "https://www.equifax.com/getScores";
+    best_url= "https://www.amazon.com/getScores";
     <style>
         body {
             margin: 0;
