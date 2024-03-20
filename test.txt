@@ -8,6 +8,9 @@
     sum = 10+10;
     mul = 10 * 10
     add = sum + mul;
+     margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
     <style>
         body {
             margin: 0;
