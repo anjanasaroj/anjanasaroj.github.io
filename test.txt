@@ -5,6 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Happy 6rd Month Anniversary MUTU</title>
     ### Feature vertex-543
+    private static final string
+    rest_url= "https://www.equifax.com/getScores";
+    best_url= "https://www.amazon.com/getScores";
     <style>
         body {
             margin: 0;
@@ -21,7 +24,7 @@
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
             overflow: hidden;
         }
-
+www.facebook.com
         .header {
             background-color: #ff69b4;
             color: #fff;
